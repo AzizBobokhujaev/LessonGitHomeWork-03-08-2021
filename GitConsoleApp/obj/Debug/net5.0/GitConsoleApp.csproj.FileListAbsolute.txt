@@ -1,0 +1,16 @@
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.exe
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.deps.json
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.runtimeconfig.json
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.runtimeconfig.dev.json
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.dll
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\ref\GitConsoleApp.dll
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\bin\Debug\net5.0\GitConsoleApp.pdb
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.csproj.AssemblyReference.cache
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.AssemblyInfoInputs.cache
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.AssemblyInfo.cs
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.csproj.CoreCompileInputs.cache
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.dll
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\ref\GitConsoleApp.dll
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.pdb
+D:\alif C#\2nd Lesson\LessonGitHomeWork\GitConsoleApp\obj\Debug\net5.0\GitConsoleApp.genruntimeconfig.cache
