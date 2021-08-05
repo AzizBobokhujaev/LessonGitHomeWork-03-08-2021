@@ -50,10 +50,10 @@ namespace GitConsoleApp
             Console.WriteLine($"Minutes = {result}");
 
             Console.WriteLine("---------------HomeWork_6---------------");
-            int K,result;
+            int K,dayOfWeek;
             Console.Write("K = "); K = Convert.ToInt32(Console.ReadLine());
-            result = K % 7;
-            Console.WriteLine($"Day of Week : {result}");
+            dayOfWeek = K % 7;
+            Console.WriteLine($"Day of Week : {dayOfWeek}");
         }    
     }
 }
